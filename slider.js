@@ -150,5 +150,3 @@ function slider({container, slide, nextArrow, prevArrow, totalCounter, currentCo
         });
     });
 }
-
-export default slider;
